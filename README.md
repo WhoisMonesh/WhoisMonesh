@@ -1,9 +1,9 @@
-[![MasterHead(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![Masthead](https://camo.githubusercontent.com/20dc8b378abd9a98c95c85b96e07bc42b6706971584086186c300a4734f3acbd/68747470733a2f2f646576656c6f706572676966732e6e65746c6966792e6170702f676966732f4a6176615363726970742e676966)
 
 
 <h1 align="center">Hi 👋, I'm Monesh Ram</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on [MealApp](https://github.com/WhoisMonesh/MealApp)
