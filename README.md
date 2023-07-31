@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [MealApp](https://github.com/WhoisMonesh/MealApp)
+- 🔭 I'm currently working on developing a real-time communication platform as a full-stack dev.
 
 - 🌱 I’m currently learning **new front-end and back-end technologies to enhance my Full Stack Development skills and build even more powerful and dynamic web applications. 🚀**
 
