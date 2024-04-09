@@ -1,4 +1,4 @@
-![Masthead](https://camo.githubusercontent.com/20dc8b378abd9a98c95c85b96e07bc42b6706971584086186c300a4734f3acbd/68747470733a2f2f646576656c6f706572676966732e6e65746c6966792e6170702f676966732f4a6176615363726970742e676966)
+![Masthead](https://raw.githubusercontent.com/WhoisMonesh/ResponsiveMusicPlayer/main/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 
 <h1 align="center">Hi 👋, I'm Monesh Ram</h1>
