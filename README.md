@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **new front-end and back-end technologies to enhance my Full Stack Development skills and build even more powerful and dynamic web applications. 🚀**
 
-- 💬 Ask me about **JavaScript Bootstrap Vue.js TypeScript Node.js PHP**
+- 💬 Ask me about **JavaScript Bootstrap TypeScript Node.js PHP**
 
 - 📫 How to reach me **moneshram7@icloud.com**
 
