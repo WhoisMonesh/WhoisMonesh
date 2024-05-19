@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **moneshram7@icloud.com**
 
-- ⚡ Fun fact **I can't solve a Rubik's Cube in under two minutes! 🎲**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
