@@ -8,9 +8,7 @@
 - 🔭 I'm currently working as a **DevOps Engineer**, focusing on **CI/CD pipelines**, **cloud infrastructure**, and **automation** to streamline the development process and ensure smooth deployments.
   
 - 🌱 I’m currently learning **Kubernetes**, **Terraform**, **Ansible**, and **Azure** to enhance my cloud and automation skills.
-
-- 💬 Ask me about **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **AWS**, **Azure**, and **CI/CD pipelines**.
-
+  
 - 📫 How to reach me: **moneshram7@icloud.com**
 
 ---
@@ -38,9 +36,9 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
   </a>
