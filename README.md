@@ -1,8 +1,7 @@
 
-```markdown
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
   <h1> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
     Monesh Ram 
@@ -146,9 +145,7 @@ gantt
   
   ![Visitor Count](https://profile-counter.glitch.me/WhoisMonesh/count.svg)
   
-  <img src="https://media.giphy.com/media/3ohs7JG6cq7EWesVIs/giphy.gif" width="300">
+  <img src="https://github.com/WhoisMonesh/WhoisMonesh/blob/2d199d38d5fd212680348658adfecc386426cb04/ops.gif" width="300">
   <h3>🌌 Building Tomorrow's Infrastructure Today</h3>
   <p><em>"The cloud is my canvas, automation my brush"</em> ☁️🎨</p>
 </div>
-```
-
