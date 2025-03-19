@@ -1,72 +1,154 @@
-![Masthead](https://raw.githubusercontent.com/WhoisMonesh/ResponsiveMusicPlayer/main/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<h1 align="center">Hi 👋, I'm Monesh Ram</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-- 🔭 I'm currently working as a **DevOps Engineer**, focusing on **CI/CD pipelines**, **cloud infrastructure**, and **automation** to streamline the development process and ensure smooth deployments.
+```markdown
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif" width="600">
+  <h1> 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+    Monesh Ram 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtOW/giphy.gif" width="40">
+  </h1>
+  <h3>⚡ DevOps Padawan | ☁️ Cloud Nomad | 🔧 Automation Artisan</h3>
   
-- 🌱 I’m currently learning **Kubernetes**, **Terraform**, **Ansible**, and **Azure** to enhance my cloud and automation skills.
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Building+Cloud+Native+Future;Automating+Everything;Learning+in+Public;Embracing+Infrastructure+as+Code)
+</div>
+
+---
+
+### 🌀 **Skills Matrix**
+```mermaid
+flowchart TD
+    A[DevOps Skills] --> B[Cloud Platforms]
+    A --> C[Containers]
+    A --> D[CI/CD]
+    B --> B1[AWS]
+    B --> B2[Azure]
+    C --> C1[Docker]
+    C --> C2[Podman]
+    D --> D1[Jenkins]
+    D --> D2[GitHub Actions]
+    
+    style A fill:#4B0082,stroke:#333,stroke-width:2px
+    style B fill:#00FF00,stroke:#333
+    style C fill:#FFA500,stroke:#333
+    style D fill:#FF0000,stroke:#333
+```
+
+---
+
+### 🛠️ **Tech Stack Radar**
+| Category       | Tools                                                                                           | Proficiency |
+|----------------|-------------------------------------------------------------------------------------------------|-------------|
+| **Cloud**      | <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">              | ████░░      |
+| **Containers** | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">              | ███░░░      |
+| **CI/CD**      | <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">            | ██░░░░      |
+| **IaC**        | <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">        | █░░░░░      |
+| **Monitoring** | <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white">      | ░░░░░░      |
+
+---
+
+### 🌐 **DevOps Ecosystem**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WhoisMonesh/WhoisMonesh/main/devops-cycle.gif" width="600">
+</div>
+
+---
+
+### 📆 **Daily Development Ritual**
+```python
+def devops_daily():
+    morning_routine = {
+        "06:00 - 07:00": "☕ Cloud Concepts Study",
+        "07:30 - 09:00": "🛠️ Hands-on Lab Work"
+    }
+    
+    afternoon_flow = [
+        "⚡ Container Challenges",
+        "📦 Infrastructure as Code Practice",
+        "🔁 CI/CD Pipeline Config"
+    ]
+    
+    evening_session = """
+    🌙 19:00-21:00:
+    - Community Learning
+    - Documentation Study
+    - Progress Tracking
+    """
+    
+    return f"""
+    {morning_routine}
+    {afternoon_flow}
+    {evening_session}
+    """
+```
+
+---
+
+### 🚧 **Certification Roadmap**
+```mermaid
+gantt
+    title Certification Journey
+    dateFormat  YYYY-MM-DD
+    section Cloud
+    AWS Certified Cloud Practitioner   :active, cert1, 2023-09-01, 2023-12-31
+    Azure Fundamentals                 :         cert2, after cert1, 60d
+    section Containers
+    Docker Certified Associate         :         cert3, 2024-01-01, 90d
+    section DevOps
+    HashiCorp Terraform Associate      :         cert4, after cert3, 60d
+```
+
+---
+
+### 📚 **Knowledge Repository**
+<details>
+<summary><b>📦 Click to Explore Learning Resources</b></summary>
   
-- 📫 How to reach me: **moneshram7@icloud.com**
+  #### 📚 Current Books
+  - "The DevOps Handbook" <progress value="45" max="100"></progress>
+  - "Cloud Native DevOps" <progress value="30" max="100"></progress>
+  
+  #### 🎓 Active Courses
+  ```bash
+  $ learn list
+  ├── AWS Cloud Practitioner Essentials
+  ├── Docker Mastery: Complete Toolset
+  └── Kubernetes The Hard Way
+  ```
+  
+  #### 🎧 Learning Playlist
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PL_sample)
+</details>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/whoismonesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoismonesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/whoismonesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoismonesh" height="30" width="40" /></a>
-</p>
+### 🌟 **DevOps Philosophy**
+> "**Infrastructure as Poetry** - Writing infrastructure code with elegance  
+> **Automation as Art** - Transforming manual processes into symphonies of efficiency  
+> **Failure as Fuel** - Every error is a stepping stone to mastery"
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.centos.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original-wordmark.svg" alt="centos" width="40" height="40"/>
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="40" height="40"/>
-  </a>
-  <a href="https://www.prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WhoisMonesh&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<!-- Interactive Footer -->
+<div align="center">
+  <h2>🚀 Let's Connect & Collaborate</h2>
+  <p>
+    <a href="https://linkedin.com/in/whoismonesh">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://twitter.com/whoismonesh">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="mailto:moneshram7@icloud.com">
+      <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </p>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/WhoisMonesh/count.svg)
+  
+  <img src="https://media.giphy.com/media/3ohs7JG6cq7EWesVIs/giphy.gif" width="300">
+  <h3>🌌 Building Tomorrow's Infrastructure Today</h3>
+  <p><em>"The cloud is my canvas, automation my brush"</em> ☁️🎨</p>
+</div>
+```
 
