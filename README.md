@@ -146,6 +146,4 @@ gantt
   ![Visitor Count](https://profile-counter.glitch.me/WhoisMonesh/count.svg)
   
   <img src="https://github.com/WhoisMonesh/WhoisMonesh/blob/2d199d38d5fd212680348658adfecc386426cb04/ops.gif" width="300">
-  <h3>🌌 Building Tomorrow's Infrastructure Today</h3>
-  <p><em>"The cloud is my canvas, automation my brush"</em> ☁️🎨</p>
 </div>
