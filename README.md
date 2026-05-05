@@ -19,7 +19,7 @@ DevOps Engineer with **6+ years of experience** architecting and implementing cl
 💡 **Innovation**: Contributing to **two pending patents** related to automated compliance verification and container security scanning methodologies.
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/whoismonesh) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moneshram7@gmail.com) [![Resume](https://img.shields.io/badge/Resume-FF5722?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/WhoisMonesh/WhoisMonesh/blob/main/Resume_05_05_2026.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/whoismonesh) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moneshram7@gmail.com) [![Resume](https://img.shields.io/badge/Resume-FF5722?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/WhoisMonesh/WhoisMonesh/blob/main/05_05_26_Resume.pdf)
 
 - 🔭 I’m currently architecting **Enterprise-grade Kubernetes Clusters**
 - 🌱 I’m currently exploring **Service Mesh & Advanced Security Automation**
