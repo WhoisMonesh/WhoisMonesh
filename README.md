@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-DevOps Engineer with **6+ years of experience** architecting and implementing cloud-native solutions, CI/CD pipelines, and observability frameworks for enterprise environments. Proven track record of **improving system reliability (99.95% uptime)**, accelerating deployment frequency (**50+ daily releases**), and enhancing security posture through infrastructure automation.
+DevOps Engineer with nearly **8+ years of experience** architecting and implementing cloud-native solutions, CI/CD pipelines, and observability frameworks for enterprise environments. Proven track record of **improving system reliability (99.95% uptime)**, accelerating deployment frequency (**50+ daily releases**), and enhancing security posture through infrastructure automation.
 
 💡 **Innovation**: Contributing to **two pending patents** related to automated compliance verification and container security scanning methodologies.
 
